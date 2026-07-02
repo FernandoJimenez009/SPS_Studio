@@ -32,3 +32,5 @@ VALUES (
     'Add ANOVA One way and Standard Deviation Test.',
     'New version available'
 );
+
+TEST
